@@ -1,0 +1,8 @@
+*.lock
+*.backup
+*.opt
+*.bootinfo
+*.bootinfo_guids
+*.compileinfo
+*.precompilecache
+*.~u
