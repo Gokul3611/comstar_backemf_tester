@@ -6,3 +6,5 @@
 *.compileinfo
 *.precompilecache
 *.~u
+*.xml
+
